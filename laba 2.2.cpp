@@ -46,7 +46,7 @@ int main()
     {
         sum += *(p + i);
     }
-    cout << endl << endl << "\n Сумма между двумя первыми положительными числами равна: " << sum << endl << endl;
+    cout << endl << endl << "\n Свага: " << sum << endl << endl;
     //
     for (int i = 0; i < n; i++)
     {
